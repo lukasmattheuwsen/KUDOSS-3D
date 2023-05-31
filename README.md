@@ -9,7 +9,7 @@ The dataset contains the following attributes:
 * RGB
 * Intensity
 * GT class
-* * test
+ * test
 
 
 
