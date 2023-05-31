@@ -6,6 +6,7 @@ KUDOSS-3D is a large-scale benchmark dataset for semantic segmentation of 3D poi
 
 ![Image](screenshots/Picture5.png)
 
+## <a name="attributes"></a> Point cloud attributes 
 The dataset contains the following attributes:
 * **XYZ**
 * **RGB**
@@ -24,3 +25,10 @@ The dataset contains the following attributes:
 
 ## <a name="download"></a> Download dataset
 Dataset can be downloaded at [OneDrive](https://kuleuven-my.sharepoint.com/:f:/g/personal/lukas_mattheuwsen_kuleuven_be/EkXzHZTIOlBLgOJvk3tUhQsBmu7D90eFpSejS6js1GiaqQ)
+
+## Citation
+Please consider citing our work:
+
+   
+
+
