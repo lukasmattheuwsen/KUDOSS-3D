@@ -21,3 +21,6 @@ The dataset contains the following attributes:
   * **Class 8 Cars/vehicle**: All motor vehicles moving or stationary.
   * **Class 9 Scanning artifacts**: Ghost or noise points caused by dynamic or reflective objects. This also includes fast moving cars which are not clearly identifiable. 
   * **Class 10 Unclassified**
+
+## <a name="download"></a> Download dataset
+Dataset can be downloaded at [OneDrive](https://kuleuven-my.sharepoint.com/:f:/g/personal/lukas_mattheuwsen_kuleuven_be/EkXzHZTIOlBLgOJvk3tUhQsBmu7D90eFpSejS6js1GiaqQ?e=38nK5Y)
